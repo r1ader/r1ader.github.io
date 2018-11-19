@@ -1,0 +1,10 @@
+{
+	"title": "在vue中使用setSelectionRange遇到的坑",
+	"date": "2018/11/19",
+	"body": [
+		{
+			"content": "在写这个博客的时候，为了方便自己写文章，遇到了控制输入框光标的需求。\n\n首先在网上查了好多，大多看到的都是使用 **createTextRange** \n的方法。\n\n类似如下代码\n```\nvar obj = event.srcElement;  // obj代表输入框dom\nvar txt =obj.createTextRange();\ntxt.moveStart('character',obj.value.length);\ntxt.collapse(true);\ntxt.select();\n```\n\n但是copy了代码后却发现并无效果。\n\n查阅更多资料发现，此方法只适用于IE浏览器。\n\n而在大多非IE浏览器中，应该使用 \n**setSelectionRange**\n 方法\n\n比如这样子：\n\n\n```javascript\nobj.setSelectionRange(0, 3);  //选中了0～3的字符\nobj.setSelectionRange(3, 3);  //将光标移到第3位\n```\n\n而在 **Vue** 中使用还有一点要注意：\n\n需要使用一个setTimeout将其包起来\n```javascript\nsetTimeout(function () {\n     getNode.setSelectionRange(0,0)\n}, 0)\n```\n",
+			"res": "<p>在写这个博客的时候，为了方便自己写文章，遇到了控制输入框光标的需求。</p>\n<p>首先在网上查了好多，大多看到的都是使用 <strong>createTextRange</strong> \n的方法。</p>\n<p>类似如下代码</p>\n<pre><code><span class=\"hljs-keyword\">var</span> obj = <span class=\"hljs-keyword\">event</span>.srcElement;  <span class=\"hljs-comment\">// obj代表输入框dom</span>\n<span class=\"hljs-keyword\">var</span> txt =obj.createTextRange();\ntxt.moveStart(<span class=\"hljs-string\">'character'</span>,obj.<span class=\"hljs-keyword\">value</span>.length);\ntxt.collapse(<span class=\"hljs-literal\">true</span>);\ntxt.<span class=\"hljs-keyword\">select</span>();</code></pre><p>但是copy了代码后却发现并无效果。</p>\n<p>查阅更多资料发现，此方法只适用于IE浏览器。</p>\n<p>而在大多非IE浏览器中，应该使用 \n<strong>setSelectionRange</strong>\n 方法</p>\n<p>比如这样子：</p>\n<pre><code class=\"language-javascript\">obj.setSelectionRange(<span class=\"hljs-number\">0</span>, <span class=\"hljs-number\">3</span>);  <span class=\"hljs-comment\">//选中了0～3的字符</span>\nobj.setSelectionRange(<span class=\"hljs-number\">3</span>, <span class=\"hljs-number\">3</span>);  <span class=\"hljs-comment\">//将光标移到第3位</span></code></pre>\n<p>而在 <strong>Vue</strong> 中使用还有一点要注意：</p>\n<p>需要使用一个setTimeout将其包起来</p>\n<pre><code class=\"language-javascript\">setTimeout(<span class=\"hljs-name\">function</span> () {\n     getNode.setSelectionRange(<span class=\"hljs-number\">0</span>,<span class=\"hljs-number\">0</span>)\n}, <span class=\"hljs-number\">0</span>)</code></pre>\n"
+		}
+	]
+}

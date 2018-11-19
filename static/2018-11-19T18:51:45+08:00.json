@@ -1,0 +1,15 @@
+{
+	"title": "百度一下你就知道",
+	"date": "2018/11/19",
+	"body": [
+		{
+			"content": "### this is a css code\n```javascript\nbody\n{\n    background-color:#d0e4fe;\n}\nh1\n{\n    color:orange;\n    text-align:center;\n}\np\n{\n    font-family:\"Times New Roman\";\n    font-size:20px;\n}\n```\n",
+			"res": "<h3 id=\"this-is-a-css-code\">this is a css code</h3>\n<pre><code class=\"language-javascript\"><span class=\"hljs-selector-tag\">body</span>\n{\n    <span class=\"hljs-attribute\">background-color</span>:<span class=\"hljs-number\">#d0e4fe</span>;\n}\n<span class=\"hljs-selector-tag\">h1</span>\n{\n    <span class=\"hljs-attribute\">color</span>:orange;\n    <span class=\"hljs-attribute\">text-align</span>:center;\n}\n<span class=\"hljs-selector-tag\">p</span>\n{\n    <span class=\"hljs-attribute\">font-family</span>:<span class=\"hljs-string\">\"Times New Roman\"</span>;\n    <span class=\"hljs-attribute\">font-size</span>:<span class=\"hljs-number\">20px</span>;\n}</code></pre>\n"
+		},
+		{
+			"type": "mid",
+			"content": "\n```javascript\nconsole.log('hello world')\n```\n",
+			"res": "<pre><code class=\"language-javascript\">console.<span class=\"hljs-built_in\">log</span>('hello world')</code></pre>\n"
+		}
+	]
+}
