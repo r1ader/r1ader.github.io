@@ -1,0 +1,10 @@
+{
+	"title": "c++",
+	"date": "2018/11/19",
+	"body": [
+		{
+			"content": "```\nint main(){\nreturn 0\n}\n```",
+			"res": "<pre><code><span class=\"hljs-built_in\">int</span> main(){\n<span class=\"hljs-keyword\">return</span> <span class=\"hljs-number\">0</span>\n}</code></pre>"
+		}
+	]
+}
