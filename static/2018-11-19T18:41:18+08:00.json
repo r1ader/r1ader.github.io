@@ -1,10 +1,10 @@
 {
-	"title": "c++test",
-	"date": "2018/11/19",
+	"title": "c++test1",
+	"date": "2018/11/21",
 	"body": [
 		{
-			"content": "```\nint main(){\n  int a=0;\n  return 0;\n}\n```",
-			"res": "<pre><code><span class=\"hljs-built_in\">int</span> main(){\n  <span class=\"hljs-built_in\">int</span> a=<span class=\"hljs-number\">0</span>;\n  <span class=\"hljs-keyword\">return</span> <span class=\"hljs-number\">0</span>;\n}</code></pre>"
+			"content": "```\nint main(){\n  int a=0;\n  return 0;\n}\n```\n\neddit 1\n```javascript\ni dont think so\n```\n\n![ads](./static/img/logo.png)",
+			"res": "<pre><code><span class=\"hljs-built_in\">int</span> main(){\n  <span class=\"hljs-built_in\">int</span> a=<span class=\"hljs-number\">0</span>;\n  <span class=\"hljs-keyword\">return</span> <span class=\"hljs-number\">0</span>;\n}</code></pre><p>eddit 1</p>\n<pre><code class=\"language-javascript\"><span class=\"hljs-selector-tag\">i</span> dont think so</code></pre>\n<p><img src=\"./static/img/logo.png\" alt=\"ads\"></p>\n"
 		}
 	]
 }
