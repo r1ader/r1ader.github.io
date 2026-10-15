@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-16",
+  "game_url": "https://www.taptap.cn/app/956572",
+  "files": [
+    {
+      "source_project": "spring up",
+      "source": "素材/雷鸣厂商图标.png",
+      "output": "assets/brand/leiming-logo.webp",
+      "source_sha256": "6691ed8167b6dee28f76ec0017e27a132a2227142be765a195f6311a5af41d8c",
+      "output_sha256": "ce96a0416df0aac1ee0ab2be492ff00b9d0bb3b27257eab1d6d62b050d2978eb",
+      "width": 512,
+      "height": 512,
+      "bytes": 17540,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "素材/雷鸣厂商图标.png",
+      "output": "assets/brand/favicon.png",
+      "source_sha256": "6691ed8167b6dee28f76ec0017e27a132a2227142be765a195f6311a5af41d8c",
+      "output_sha256": "0bda6f3a732450527f3c6781bfe9a9824378f8e51846b3e2019623f066dffcd6",
+      "width": 48,
+      "height": 48,
+      "bytes": 3144,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "素材/雷鸣厂商图标.png",
+      "output": "assets/brand/apple-touch-icon.png",
+      "source_sha256": "6691ed8167b6dee28f76ec0017e27a132a2227142be765a195f6311a5af41d8c",
+      "output_sha256": "1c0345b26dd2085bb906be9f1a1982b9eeb5d860bf15a14ce45d724868dbe0d5",
+      "width": 180,
+      "height": 180,
+      "bytes": 17889,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/images/banner.jpg",
+      "output": "assets/games/spring-up/banner.webp",
+      "source_sha256": "9a918dbe1a6af68906c8f62f3226f92918119a3b9eed6afcc6f0b211604bf61a",
+      "output_sha256": "aebc95ee1e9683765606a10035912ba6f96a58f40dde5972f94a4c2b95e7ffaf",
+      "width": 1600,
+      "height": 900,
+      "bytes": 80620,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/images/banner.jpg",
+      "output": "assets/games/spring-up/banner.jpg",
+      "source_sha256": "9a918dbe1a6af68906c8f62f3226f92918119a3b9eed6afcc6f0b211604bf61a",
+      "output_sha256": "9a918dbe1a6af68906c8f62f3226f92918119a3b9eed6afcc6f0b211604bf61a",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 130475,
+      "processing": "Original TapTap banner retained for social sharing"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/images/logoless-horizontal.jpg",
+      "output": "assets/games/spring-up/garden.webp",
+      "source_sha256": "f167425910e13cfa0e5dec5a220bb368f81bc24169951c3200e37b844151bc78",
+      "output_sha256": "d302e050b3e391217b1827fa8d33c6f2f6097dc9a7c6932005fad8c5e2f82b6d",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 103162,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/images/logoless-vertical.png",
+      "output": "assets/games/spring-up/garden-mobile.webp",
+      "source_sha256": "710b84a6487d98310c91306aaaaaf91a13024da1991dbfb391bd9239fabbcb33",
+      "output_sha256": "2dd11e7a662870144b7c95e8e32df03e312024d95958855f199e8dabaac84b5d",
+      "width": 800,
+      "height": 1200,
+      "bytes": 67432,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261004/icon.png",
+      "output": "assets/games/spring-up/icon.webp",
+      "source_sha256": "786e14e13f4f881d0054d5d4f824bab7efafb2599e52c2a939dc5ff7ffc2ef27",
+      "output_sha256": "21f5a03c08463d8e4c62d763367aae4f26838704e7e18345fcd095eb47c9d6b2",
+      "width": 128,
+      "height": 128,
+      "bytes": 2908,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-01.png",
+      "output": "assets/games/spring-up/screenshot-01.webp",
+      "source_sha256": "b646a9a6afa3e3ce555c0adb10969a3b0d068f656ec919044c8c66d4a4cce831",
+      "output_sha256": "336eca3d9faac529aa4c7b93649822b12319ffe75c0a32ce44bc90e7bc836b00",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 34510,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-01.png",
+      "output": "assets/games/spring-up/thumb-01.webp",
+      "source_sha256": "b646a9a6afa3e3ce555c0adb10969a3b0d068f656ec919044c8c66d4a4cce831",
+      "output_sha256": "0905a7474762d23ad8c2ef68f48aca466bdcd0f0b600cb4ea7eac276d848422c",
+      "width": 240,
+      "height": 135,
+      "bytes": 2236,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-02.png",
+      "output": "assets/games/spring-up/screenshot-02.webp",
+      "source_sha256": "5f01ca7db1daad1fccfb7979e2ab3e9f18aabf79d9c4bca71b662173fc3eede4",
+      "output_sha256": "f7ff1bdce5e2da083ca6f0c968442f0d7fdeab573d0de57c516dcf9a2b59c405",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 38044,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-02.png",
+      "output": "assets/games/spring-up/thumb-02.webp",
+      "source_sha256": "5f01ca7db1daad1fccfb7979e2ab3e9f18aabf79d9c4bca71b662173fc3eede4",
+      "output_sha256": "facdadd9f2280f8c307bd0336ea5c9cc7652c5b68504960f57f97573fa84bc29",
+      "width": 240,
+      "height": 135,
+      "bytes": 2636,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-03.png",
+      "output": "assets/games/spring-up/screenshot-03.webp",
+      "source_sha256": "61e4ae25f7497dab1a73be0cdc1f3cea9bae42fe55ebf4be79c14adcd3edd09e",
+      "output_sha256": "57b897a82b32473efa6678b3fbe16243b2ceaec504f6f6e9504adbb5a89f2c49",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 29630,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-03.png",
+      "output": "assets/games/spring-up/thumb-03.webp",
+      "source_sha256": "61e4ae25f7497dab1a73be0cdc1f3cea9bae42fe55ebf4be79c14adcd3edd09e",
+      "output_sha256": "e65d13125033d45e24a6ca540a09a18853bd6dced46cdd40e4a21feac5f5b6fb",
+      "width": 240,
+      "height": 135,
+      "bytes": 2006,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-04.png",
+      "output": "assets/games/spring-up/screenshot-04.webp",
+      "source_sha256": "e719c99805ad966e2728aa8288cd38d7ff506c64650cbbfbf4c87e0c1e9f66c1",
+      "output_sha256": "b03b68b7d7d4f40c3af90cbe2c033279c67703878793f6f1a8e1f8a4ed271241",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 35376,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-04.png",
+      "output": "assets/games/spring-up/thumb-04.webp",
+      "source_sha256": "e719c99805ad966e2728aa8288cd38d7ff506c64650cbbfbf4c87e0c1e9f66c1",
+      "output_sha256": "b3dce1ae913592808d0219901fd51c15d7575ee886b31a76833f8b1c55c93f05",
+      "width": 240,
+      "height": 135,
+      "bytes": 2634,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-05.png",
+      "output": "assets/games/spring-up/screenshot-05.webp",
+      "source_sha256": "03b7da86d46321879d06007573c686af1c544f9cac74908f6ffcd2dedba918c6",
+      "output_sha256": "6b5ab895e45a62bc2e9cc201a15595de5298f12281324ec9bd7a04bc4a6b8dd4",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 37136,
+      "processing": "Resize and web compression; original composition preserved"
+    },
+    {
+      "source_project": "spring up",
+      "source": "assets/publishing/20261012/screenshots/screenshot-05.png",
+      "output": "assets/games/spring-up/thumb-05.webp",
+      "source_sha256": "03b7da86d46321879d06007573c686af1c544f9cac74908f6ffcd2dedba918c6",
+      "output_sha256": "e10c011cb100f43a1aa6a8fc43dd7b62e7109f1244ca12b9a24de27f30b7653e",
+      "width": 240,
+      "height": 135,
+      "bytes": 2846,
+      "processing": "Resize and web compression; original composition preserved"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://r1ader.github.io/sitemap.xml
